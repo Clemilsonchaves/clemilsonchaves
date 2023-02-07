@@ -6,15 +6,13 @@
 
 ##
 
-<div><br>
-  <a href="https://www.linkedin.com/in/clemilsonchaves" target"_blank" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clemilsonchaves)
   
-  <a href="https://www.instagram.com/clemilsonchaves/" target="_blank"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clemilsonchaves)
   
-  <a href="mailto:clemilsonchaves.1992@gmail.com" target="_blank"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targt="_blank"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:clemilsonchaves.1992@gmail.com)
   
-  <a href="#" target="_blank"/><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
-</div>
+[![whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952838766)
 
 ##
 
