@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Clemilson Chaves 👋
 
 - ⚙ Hoje trabalho com Front-end
+- 🖥️ Estudando MBA-FullStack 
 - 💻 Estudando Javascript
+- ⚛️ React.js
 - 📧 Contate-me: clemilsonchaves.1992@gmail.com
 
 ##
